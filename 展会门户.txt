@@ -1,0 +1,4 @@
+http://www.cnena.com/showroom/listall-htm-ordertype-id-page-1.html
+
+
+scrapy crawl zh -s JOBDIR=./log
